@@ -1,0 +1,50 @@
+<fieldset>
+    <legend>表单</legend>
+    <p>金额：{{money}}</p>
+    <p class="layout-row">
+        <v-input type="number" title="金额" model="money|currency"></v-input>
+        <v-input type="email" model="email" title="邮箱" required min="5" max="8"></v-input>
+        <v-input type="text" model="text" title="用户名" disabled></v-input>
+        <v-input type="number" title="使用率" model="money|percent"></v-input>
+    </p>
+    <p class="layout-row">
+        <v-input type="password" title="密码" model="text"></v-input>
+        <v-input type="text" title="开始时间" model="time"></v-input>
+        <v-input type="digits" title="纯数字" model="digits"></v-input>
+        <v-input type="text" title="自定义错误" model="text2" required min="5" max="8">
+            <i slot="required" transition="fade">必填</i>
+            <i slot="min" transition="fade">最小5</i>
+            <i slot="max" transition="fade">最大8</i>
+        </v-input>
+    </p>
+    <p class="layout-row">
+        <v-select title="国家" model="country" :options="countrys" required></v-select>
+        <v-input type="tel" title="手机号码" model="tel"></v-input>
+        <v-input type="ip" title="IP地址" model="ip"></v-input>
+        <v-input type="richbox" title="富文本框" model="text"></v-input>
+    </p>
+    <p class="layout-row">
+        <v-input type="url" title="网址" model="url"></v-input>
+        <v-button class="blue" @click="click" text="点击我" icon="home"></v-button>
+        <v-button class="red" @click="click" :text="text" icon="office"></v-button>
+        <v-button @click="click" :text="text" icon="newspaper"></v-button>
+        <v-button @click="dotask" text="点我呀" icon="disc" :processing="processing"></v-button>
+        <v-button @click="click" text="我没有图标,而且被禁用了" disabled></v-button>
+    </p>
+    <p class="layout-row">
+        <v-switch title="接收通知" model="flag"></v-switch>
+        <v-switch title="接收通知" model="flag" disabled></v-switch>
+        <v-checkbox value="One" title="选项1" model="checkedNames"></v-checkbox>
+        <v-checkbox value="Two" title="选项2" model="checkedNames" disabled></v-checkbox>
+        <v-checkbox value="Three" title="选项3" model="checkedNames"></v-checkbox>
+        {{checkedNames|json}}
+        <v-radio value="One" title="选项1" model="picked"></v-radio>
+        <v-radio value="Two" title="选项2" model="picked" disabled></v-radio>
+        <v-radio value="Three" title="选项3" model="picked"></v-radio>
+        {{picked}}
+    </p>
+
+</fieldset>
+<div style="text-align:right;margin-top:10px;">
+    <v-button text="提交表单" icon="floppy-disk" @click="valid()" :processing="processing"></v-button>
+</div>

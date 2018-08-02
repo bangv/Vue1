@@ -1,0 +1,35 @@
+var apps = [{
+	id: 'table',
+	icon: 'weather',
+	title: 'weather',
+	pin: false,
+	show: true,
+	current: false,
+	active: false,
+	tpl: 'view/table.html',
+	ctrl: 'view/table.js'
+}, {
+	id: 'weixin',
+	icon: 'weixin',
+	title: 'weixin',
+	width: 800,
+	height: 500,
+	pin: true,
+	show: true,
+	active: false,
+	current: false,
+	maxable: false,
+	tpl: 'view/weixin.html',
+	ctrl: 'view/weixin.js'
+}, {
+	id: 'news',
+	icon: 'news',
+	title: 'news',
+	pin: false,
+	show: true,
+	current: false,
+	active: false,
+	css: 'view/news.css',
+	tpl: 'view/news.html',
+	ctrl: 'view/news.js'
+}];

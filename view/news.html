@@ -1,0 +1,9 @@
+<h1 v-text="title"></h1>
+<h2 v-text="titles"></h2>
+<h3 v-text="amount | currency '¥'"></h3>
+<div @click="sayhello()">Click Me</div>
+<pre>{{ data | json 4 }}</pre>
+<ul>
+    <li v-for="item in data" v-text="item"></li>
+</ul>
+<div id="xxx" v-text="msg"></div>
