@@ -1,87 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="386aff5c-7d99-49d6-8cd4-025d892a78bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Bubbles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Circles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Connected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Crossed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Eclipse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Festive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Flower.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Graph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Lights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Links.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Money.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Payments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Pieces.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Player.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Spaghetti.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Stream.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Ticksw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Waves.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/Writer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/news.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/weather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Vue.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/master.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/start.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.checkbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.desktop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.drag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.msgbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.notify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.pager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.radio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.ripple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.switch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue.window.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/news.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/news.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/weixin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/weixin.js" />
-    </list>
+    <list default="true" id="386aff5c-7d99-49d6-8cd4-025d892a78bb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -98,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="288">
+              <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -135,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".eslintignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".eslintignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.eslintignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -185,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/config.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            <state relative-caret-position="261">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -279,7 +199,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,23 +351,24 @@
       <workItem from="1532312541826" duration="13562000" />
       <workItem from="1532399136988" duration="43000" />
       <workItem from="1533089683014" duration="4160000" />
-      <workItem from="1533194618567" duration="4713000" />
+      <workItem from="1533194618567" duration="5103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30950000" />
+    <option name="totallyTimeSpent" value="31340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35194942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35194942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53253794" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53253794" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -492,6 +455,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2052">
           <caret line="108" column="14" lean-forward="false" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -565,6 +529,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2052">
           <caret line="108" column="14" lean-forward="false" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,6 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
           <caret line="80" column="35" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -705,14 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4086">
           <caret line="227" column="6" lean-forward="false" selection-start-line="227" selection-start-column="6" selection-end-line="227" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -785,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -805,6 +755,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>

@@ -21,10 +21,10 @@ var app = new Vue({
 			if (self.$valid) {
 				localStorage.username = self.username;
 				self.processing = true;
-				setTimeout(function() {
+				// setTimeout(function() {
 					self.logged = true;
 					self.processing = false;
-				}, 1000);
+				// }, 1000);
 			}
 			return false;
 		}
